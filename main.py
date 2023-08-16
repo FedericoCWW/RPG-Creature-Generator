@@ -1,6 +1,9 @@
 import random
 import dictionary_creatures
 
+def Nickname():
+    pass
+
 def Generator():
     n = dictionary_creatures.name
     a = dictionary_creatures.alligment

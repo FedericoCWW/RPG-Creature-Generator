@@ -70,5 +70,11 @@ name = ["Rat",
         "Hydra",
         "Skeleton Guard",
         "Skeleton Ranger",
-        "Beholder"
+        "Beholder",
+        "Lich",
+        "Revenant",
+        "Girallon"
+        "Demon Spawn"
+        "Archangel",
+        "Greater Demon"
         ]
